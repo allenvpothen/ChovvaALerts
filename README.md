@@ -13,7 +13,7 @@
 - Member 3: FATHIMA HANA - CUSAT
 
 ### Project Description
-[2-3 lines about what your project does]
+[2-3 li]
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
