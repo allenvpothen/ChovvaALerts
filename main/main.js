@@ -30,7 +30,7 @@ const pinTexture = textureLoader.load("textures/pin.png");
 camera.position.z = 35;
 const controls = new OrbitControls(camera, canvas);
 controls.minDistance = 19;
-        controls.maxDistance = 500000;
+        controls.maxDistance = 100;
 
 // controls.enableDamping = true;
 
