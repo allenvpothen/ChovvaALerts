@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Earth to Mars Years Converter</title>
+</head>
+<body>
+    <h1>Earth to Mars Years Converter</h1>
+
+    <label for="earthYears">Enter Earth years:</label>
+    <input type="number" id="earthYears" placeholder="Enter years" required>
+    
+    <button onclick="convertToMarsYears()">Convert to Mars Years</button>
+
+    <h3 id="result"></h3>
+
+    <script>
+        function convertToMarsYears() {
+            // Get input value
+            const earthYears = document.getElementById("earthYears").value;
+            
+            // Conversion factor: 1 Earth year = 1.88 Mars years
+            const marsYears = earthYears * 1.88;
+
+            // Display the result
+            document.getElementById("result").innerText = earthYears + " Earth year(s) = " + marsYears.toFixed(2) + " Mars year(s)";
+        }
+    </script>
+</body>
+</html>
