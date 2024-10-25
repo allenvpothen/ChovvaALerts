@@ -13,10 +13,12 @@
 - Member 3: FATHIMA HANA - CUSAT
 
 ### Project Description
-[2-3 li]
+[we are introducing weather app for martians.our weather app is designed specifically for mars,
+providing real-time atmospheric and environment data for martian inhabitants by using accurate
+information from NASA]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[There is no app for ]
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
