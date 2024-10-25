@@ -27,7 +27,7 @@ Nobody asked for it,but MARS deserves better ,right? While earthlings argue over
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- HTML,CSS,JAVASCIPT
+- HTML,CSS,JavaScript
 - THREE JS
 - ChatGPT
 
