@@ -22,20 +22,14 @@ MARTIANS, long accustomed to the planet's thin atmosphere and upredictable dust 
 on the frequent dust storms , fluctuating temperature,and solar radiation spikes that dominate their environment.
 
 ### The Solution (that nobody asked for)
-
+Nobody asked for it,but MARS deserves better ,right? While earthlings argue over umbrellas and sun hats,martians need a heads-up on 200 mph dust storms. With cutting-edge data sources and predictive algorithms, the mars weather app provides accurate,up-to-date information for all martians -ensuring everyone stay safe,connected, and informed, no matter where their next adventure takes them. 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML,CSS,JAVASCIPT
+- THREE JS
+- ChatGPT
 
 ### Implementation
 For Software:
