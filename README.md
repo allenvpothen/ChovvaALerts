@@ -10,7 +10,7 @@
 ### Team Members
 - Team Lead: ALLEN V POTHEN - CUSAT
 - Member 2: JAYASURYA JAYAKUMAR - CUSAT
-- Member 3: FATHIMA HANA - CUSAT
+- Member 3: FATHIMA HANA HS- CUSAT
 
 ### Project Description
 [we are introducing weather app for martians.our weather app is designed specifically for mars,
