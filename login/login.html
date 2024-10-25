@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        :root {
+            --main-bg: #1A1A19;
+            --main-fg: #31511E;
+            --light-fg: #859F3D;
+        }
+        body {
+            background-color: var(--main-bg);
+            color: var(--light-fg);
+        }
+        .name {
+            color: #fafafa;
+            background-color: transparent;
+            position: absolute;
+            left: 0;
+            z-index: 2;
+            background-color: transparent;
+            
+        }
+        .nameDupe {
+            position: absolute;
+            left: 0;
+        }
+    </style>
+</head>
+<body>
+    <form action="">
+        <h3>Enter your name</h3>
+        <div class="nameContainer">
+        <input class="name" type="text" name="" id="">
+        <input class="nameDupe" type="text" name="" id="">
+
+        <p class="nameOutput"></p>
+    </div>
+        <!-- <input type="number" name="" id=""> -->
+    </form>
+    <script src="login.js"></script>
+</body>
+</html>
