@@ -13,7 +13,7 @@
 - Member 3: FATHIMA HANA HS- CUSAT
 
 ### Project Description
-[we are introducing weather app for martians.our weather app is designed specifically for mars,
+[we are introducing weather app for MARTIANS. Our weather app is designed specifically for mars,
 providing real-time atmospheric and environment data for martian inhabitants by using accurate
 information from NASA]
 
