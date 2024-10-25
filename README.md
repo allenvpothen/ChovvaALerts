@@ -18,7 +18,8 @@ providing real-time atmospheric and environment data for martian inhabitants by 
 information from NASA,ISRO]
 
 ### The Problem (that doesn't exist)
-[There is no app for ]
+[MARTIANS, long accustomed to the planet's thin atmosphere and upredictable dust storms, face the daily challenge of planning their intercrater travel ,agricultural project,and outdoor leisure activities without a reliable way to forecast mars' notoriusly unpredictable weather. while earthlings rely on dailyapps and update to navigate rain,snow,or sun,mars colonists have been left stranded withuot accurate data 
+ on the frequent dust storms , fluctuating temperature,and solar radiation spikes that dominate their environment. ]
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
