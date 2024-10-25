@@ -1,48 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <style>
-        * {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        :root {
-            --main-bg: #1A1A19;
-            --main-fg: #31511E;
-            --light-fg: #859F3D;
-        }
-        body {
-            background-color: var(--main-bg);
-            color: var(--light-fg);
-        }
-        .name {
-            color: #fafafa;
-            background-color: transparent;
-            position: absolute;
-            left: 0;
-            z-index: 2;
-            background-color: transparent;
-            
-        }
-        .nameDupe {
-            position: absolute;
-            left: 0;
-        }
-    </style>
-</head>
-<body>
-    <form action="">
-        <h3>Enter your name</h3>
-        <div class="nameContainer">
-        <input class="name" type="text" name="" id="">
-        <input class="nameDupe" type="text" name="" id="">
+      * {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      }
+      :root {
+        --main-bg: #1a1a19;
+        --main-fg: #31511e;
+        --light-fg: #859f3d;
+      }
+      body {
+        background-color: var(--main-bg);
+        color: var(--light-fg);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
+      }
+      input {
+        background-color: #fafafa;
+        border: 2px solid #31511e;
+        border-radius: 0.3rem;
+        height: 1.5rem;
+        width: 13rem;
+      }
+      .name {
+        color: transparent;
+        background-color: transparent;
+        position: absolute;
+        /* left: 0; */
+        z-index: 2;
+        background-color: transparent;
+      }
+      .name::selection {
+        color: transparent;
+        background: #859f3da2;
+      }
 
-        <p class="nameOutput"></p>
-    </div>
-        <!-- <input type="number" name="" id=""> -->
+      .nameDupe {
+        position: absolute;
+        /* left: 0; */
+      }
+      .nameContainer {
+        position: relative;
+      }
+      form {
+        width: 15rem;
+        height: 70vh;
+        border: 3px solid var(--main-fg);
+        border-radius: 1.2rem;
+        display: flex;
+        flex-direction: column;
+        /* align-items: center; */
+        justify-content: space-evenly;
+        padding: 2rem;
+      }
+      .ageContainer {
+        display: flex;
+        align-items: center;
+        justify-content: end;
+      }
+      .age {
+        width: 2rem;
+        margin-left: 0.5rem;
+      }
+      .ageContainerContainer {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+      }
+    </style>
+  </head>
+  <body>
+    <form action="">
+      <div class="nameContainer">
+        <h3>Enter your name</h3>
+        <input class="name" type="text" name="" id="" />
+        <input class="nameDupe" type="text" name="" id="" />
+      </div>
+      <div class="ageContainerContainer">
+        <h3>Your Age =</h3>
+        <div class="ageContainer">
+          <p>100 -</p>
+          <input class="age" type="number" name="" id="" />
+        </div>
+      </div>
     </form>
     <script src="login.js"></script>
-</body>
+  </body>
 </html>
