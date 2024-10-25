@@ -4,13 +4,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:Naadan Coders
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Allen V Pothen - CUSAT
+- Member 2: Jayasurya jayakumar - CUSAT
+- Member 3: FATHIMA HANA - CUSAT
 
 ### Project Description
 [2-3 lines about what your project does]
