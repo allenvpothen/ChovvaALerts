@@ -8,8 +8,8 @@
 
 
 ### Team Members
-- Team Lead: Allen V Pothen - CUSAT
-- Member 2: Jayasurya jayakumar - CUSAT
+- Team Lead: ALLEN V POTHEN - CUSAT
+- Member 2: JAYASURYA JAYAKUMAR - CUSAT
 - Member 3: FATHIMA HANA - CUSAT
 
 ### Project Description
