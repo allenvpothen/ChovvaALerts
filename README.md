@@ -61,9 +61,6 @@ For Software:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
 - ALLEN V POTHEN: Implimented Three.js to create engaging 3D weather stimulations representations of martian landscapes.
                   Integrated 3D models to represent realistic weather phenomena,such as dust storm,atmospheric changes and temperature variations,giving martians an intuitive understanding ofthe planet's
