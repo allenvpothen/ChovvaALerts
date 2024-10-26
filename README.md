@@ -45,7 +45,6 @@ For Software:
 <img width="1280" alt="readme-banner" src="https://github.com/allenvpothen/ChovvaALerts/blob/a17839ea08746f916264b0bd98cbcded27089a13/login/screenshot/calc.png">
 calculate age in mars with age in earth
 
-![Screenshot2]
 <img width="1280" alt="readme-banner" src="https://github.com/allenvpothen/ChovvaALerts/blob/a17839ea08746f916264b0bd98cbcded27089a13/login/screenshot/login.png">
 Basic login page for appliying citizenship
 <img width="1280" alt="readme-banner" src="https://github.com/allenvpothen/ChovvaALerts/blob/a17839ea08746f916264b0bd98cbcded27089a13/login/screenshot/main.png">
