@@ -43,13 +43,14 @@ https://allenvpothen.github.io/ChovvaALerts/
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1280" alt="readme-banner" src="https://github.com/allenvpothen/ChovvaALerts/blob/a17839ea08746f916264b0bd98cbcded27089a13/login/screenshot/calc.png">
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
+<img width="1280" alt="readme-banner" src="https://github.com/allenvpothen/ChovvaALerts/blob/a17839ea08746f916264b0bd98cbcded27089a13/login/screenshot/login.png">
 ![Screenshot3](Add screenshot 3 here with proper name)
+<img width="1280" alt="readme-banner" src="https://github.com/allenvpothen/ChovvaALerts/blob/a17839ea08746f916264b0bd98cbcded27089a13/login/screenshot/main.png">
+
 *Add caption explaining what this shows*
 
 ### Project Demo
