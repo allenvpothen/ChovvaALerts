@@ -33,8 +33,7 @@ For Software:
 
 ### Implementation
 For Software:
-# Installation
-[commands]
+
 
 # Run
 https://allenvpothen.github.io/ChovvaALerts/
@@ -42,16 +41,16 @@ https://allenvpothen.github.io/ChovvaALerts/
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 <img width="1280" alt="readme-banner" src="https://github.com/allenvpothen/ChovvaALerts/blob/a17839ea08746f916264b0bd98cbcded27089a13/login/screenshot/calc.png">
-*Add caption explaining what this shows*
+calculate age in mars with age in earth
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2]
 <img width="1280" alt="readme-banner" src="https://github.com/allenvpothen/ChovvaALerts/blob/a17839ea08746f916264b0bd98cbcded27089a13/login/screenshot/login.png">
-![Screenshot3](Add screenshot 3 here with proper name)
+Basic login page for appliying citizenship
 <img width="1280" alt="readme-banner" src="https://github.com/allenvpothen/ChovvaALerts/blob/a17839ea08746f916264b0bd98cbcded27089a13/login/screenshot/main.png">
 
-*Add caption explaining what this shows*
+main weather app with 3d model using three js
 
 ### Project Demo
 # Video
