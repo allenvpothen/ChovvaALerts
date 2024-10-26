@@ -8,6 +8,8 @@
       * {
         padding: 0;
         margin: 0;
+        color: white;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
       }
       body {
         background-color: black;
@@ -24,18 +26,28 @@
       }
 
       #first {
-        color: white;
+        color: #E4D00A;
       }
       
       .header {
         /* position: absolute; */
-        color: white;
+        color: #FFAC1C;
         margin: 1.4rem;
       }
       .nameParent {
         position: absolute;
         right: 2rem;
         color: white;
+        font-size: 2rem;
+      }
+      .siteName {
+        color: white;
+      }
+      .fullForecast {
+        right: 2rem;
+        position: absolute;
+        top: 45vh;
+        text-align: right;
       }
     </style>
   </head>
@@ -46,8 +58,11 @@
       <h1>ChovvaALerts</h1>
     </div>
     <canvas class="webgl"> </canvas>
-    <div>
-        <h2 class="siteName"></h2>
+    <div class="fullForecast">
+        <h1 class="siteName"></h1>
+        <h2 class="forecast"></h2>
+        <h2 class="temp"></h2>
+
     </div>
     <script type="importmap">
       {

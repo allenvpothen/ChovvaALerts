@@ -25,7 +25,7 @@ const marsNormal = textureLoader.load("textures/mars_normal.jpg");
 const pinTexture = textureLoader.load("textures/pin.png");
 const raycaster = new THREE.Raycaster();
 const pointer = new THREE.Vector2();
-
+const forecast = ["Acid Rain", "Thunderstorm", "Sandstorm", "Misty", "Drizzle", "Sunny", "Tornado"];
 
 //camera
 camera.position.z = 35;
@@ -133,7 +133,7 @@ mawrthVallis.name = "Mawarth Vallis";
 
 
 //Clicks
-let site = INTERSECTED.name;
+let site = keplerCrater;
 
 document.addEventListener("click", clicked);
 function clicked(event) {
@@ -149,8 +149,14 @@ function clicked(event) {
     // camera.autoRotate
         // document.querySelector("canvas").style.left = "-20rem"
         // camera.position.x = 15;
-        
+        site = INTERSECTED.name;
+        document.querySelector(".siteName").innerHTML = site;
+        document.querySelector(".forecast").innerHTML = "Status: " +forecast[(Math.floor(Math.random() * forecast.length))]
+        document.querySelector(".temp").innerHTML ="Temperature: "+ Math.floor(Math.random() * 100) + "°C";
+
       INTERSECTED = intersects[0].object;
+      site = INTERSECTED.name;
+
     }
   } else {
     if (INTERSECTED)
