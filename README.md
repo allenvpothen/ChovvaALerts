@@ -37,7 +37,7 @@ For Software:
 [commands]
 
 # Run
-[commands]
+https://allenvpothen.github.io/ChovvaALerts/
 
 ### Project Documentation
 For Software:
@@ -51,10 +51,6 @@ For Software:
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 ### Project Demo
 # Video
