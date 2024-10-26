@@ -21,9 +21,14 @@
         width: 100vw;
         height: 100vh;
       }
+      #first {
+        color: white;
+      }
+      
     </style>
   </head>
   <body>
+    <div id="first"><span id="displaydata"></span></div>
     <canvas class="webgl"> </canvas>
     <script type="importmap">
       {
@@ -34,5 +39,12 @@
       }
     </script>
     <script type="module" src="main.js"></script>
+    <script>
+      window.onload = function() {
+        document.getElementById('first').innerText = localStorage.getItem('name');
+}
+     
+     </script>
+    
   </body>
 </html>
