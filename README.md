@@ -53,7 +53,7 @@ main weather app with 3d model using three js
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+<video><source href="https://github.com/allenvpothen/ChovvaALerts/blob/9b106b03d43419355463b9af9c2618e81d0dac22/login/screenshot/ChovvaALerts.mp4"></video>
 *Explain what the video demonstrates*
 
 ## Team Contributions
