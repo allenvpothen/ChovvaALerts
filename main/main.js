@@ -177,7 +177,7 @@ window.addEventListener("resize", () => {
   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
 });
 function animate() {
-  mars.rotation.y += Math.PI * (1 / 2048);
+  mars.rotation.y += Math.PI * (1 / 8198);
   //   particleSystem.rotation.y += Math.PI * (1/2048);
   northPole.lookAt(camera.position);
   southPole.lookAt(camera.position);
