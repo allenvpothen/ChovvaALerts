@@ -14,8 +14,3 @@ form.addEventListener("submit", (event) => {
    
     window.location.href = "../main/main.html";
 });
-submitButton.addEventListener("mouseover", () => {
-    const randomX = Math.random() * 5; 
-    const randomY = Math.random() * 3; 
-    submitButton.style.transform = "translate("+ randomX+ "rem,"+randomY+"rem)";
-});
