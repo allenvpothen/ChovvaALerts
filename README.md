@@ -68,7 +68,7 @@ For Software:
 - ALLEN V POTHEN: Implimented Three.js to create engaging 3D weather stimulations representations of martian landscapes.
                   Integrated 3D models to represent realistic weather phenomena,such as dust storm,atmospheric changes and temperature variations,giving martians an intuitive understanding ofthe planet's
                    climate
-- JAYASURYA JAYAKUMAR: Introduced the idea of weather-based survival tips for martian settlers,enhancing the practicality of the app for users navigating harsh martian weathers.
+- JAYASURYA JAYAKUMAR: Introduced the idea of weather-based survival tips for martian settlers,enhancing the practicality of the app     for users navigating harsh martian weathers.
                        Developed the user interface using HTML and CSS ,ensuring the seamless,futuristic design suitable for a martian environment and login page.
 - FATHIMA HANA HS:  Conducted in-depth research into the unique weather patterns on mars and all about the information that is required.
                     Developed a calculator that converts earth year to mars years, helping users understand the difference in time scales between the two planets and also updated the project details.

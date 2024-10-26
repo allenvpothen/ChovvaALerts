@@ -7,7 +7,7 @@
   <title>Document</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Megrim&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Saira+Stencil+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Megrim&family=Oxanium:wght@200..800&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Saira+Stencil+One&display=swap" rel="stylesheet">
   <style>
     * {}
 
@@ -128,14 +128,24 @@
     #calc{
       font-family: "Playwrite GB S", cursive;
       font-optical-sizing: auto;
-      font-weight: 400;
+      font-weight: 700;
       font-style: normal;
       color: black;
     }
+    .ageText{
+      font-family: "Oxanium", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+      font-size: medium;
+    }
+    
   </style>
 </head>
 
 <body>
+  
+  <div></div>
   <h1 class="title">You need to be a martian to use our services</h1>
   <form id="userForm">
     <div class="nameContainer">
@@ -145,7 +155,7 @@
       
     </div>
     <div class="ageContainerContainer">
-      <h3>Your Age in Mars years:</h3>
+      <h3 class="ageText">Your Age in Mars years:</h3>
       <div class="ageContainer">
 
         <input class="age" type="number" name="" id="age" />
